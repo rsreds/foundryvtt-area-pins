@@ -5,7 +5,7 @@ Hooks.on("getSceneControlButtons", (controls, b, c) => {
     {
       button: true,
       visible: true,
-      icon: "fas fa-circle-book-open",
+      icon: "fa fa-circle-book-open",
       name: "createAreaPin",
       title: "Create Area Pin",
       onClick: () => {
