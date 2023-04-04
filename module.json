@@ -11,5 +11,8 @@
   "compatibility": {
     "minimum": "10",
     "verified": "10"
-  }
+  },
+  "url": "https://github.com/rsreds/foundryvtt-area-pins",
+	"download": "https://github.com/rsreds/foundryvtt-area-pins/archive/refs/tags/v0.0.1.zip",
+	"manifest": "https://raw.githubusercontent.com/rsreds/foundryvtt-area-pins/main/module.json"
 }
