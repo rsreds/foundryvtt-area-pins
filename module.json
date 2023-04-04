@@ -1,0 +1,15 @@
+{
+  "id": "area-pins",
+  "title": "Area Pins",
+  "description": "A module that implements map pins with area indicators.",
+  "authors": [
+    {
+    "name": "Simone Rossi Tisbeni"
+    }
+    ],
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  }
+}
